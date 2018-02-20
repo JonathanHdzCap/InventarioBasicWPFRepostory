@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="LoginWPF.Windows.Controls.ProductosControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LoginWPF.Windows.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <UserControl.Resources>
+        <AlternationConverter x:Key="AlternationConverter"/>
+    </UserControl.Resources>
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,10,10,10" Background="#FFF9F9F9">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="92*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Productos en Stock" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20pt" FontWeight="Bold" FontFamily="Lucida Fax" Foreground="Black" d:IsLocked="True"/>
+        <DataGrid  x:Name="gridProductos" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Column="0" Grid.Row="1" FontSize="14" Background="{x:Null}" AutomationProperties.IsColumnHeader="True" HeadersVisibility="Column" SelectionMode="Single" CanUserResizeRows="False" MinRowHeight="9">
+            <DataGrid.Columns>
+                <DataGridHyperlinkColumn Binding="{x:Null}" ContentBinding="{x:Null}" ClipboardContentBinding="{x:Null}"/>
+            </DataGrid.Columns>
+            <!--<DataGrid.Columns>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" HeaderStringFormat="Descripcion" Header="Descripción de la Marca"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" HeaderStringFormat="Marca" Header="Marca"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" HeaderStringFormat="PrecioCompra" Header="Precio de Compra"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" HeaderStringFormat="PrecioVenta" Header="Precio de Venta"/>
+                <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" HeaderStringFormat="Fecha de Vencimiento" Header="Fecha de Vto."/>
+            </DataGrid.Columns>-->
+        </DataGrid>
+    </Grid>
+</UserControl>

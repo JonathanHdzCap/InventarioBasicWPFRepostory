@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sistema de Ventas">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Sistema de Ventas.sln">
+</Property><Property Name="Date" Value="miércoles, 10 de febrero de 2016">
+</Property><Property Name="Time" Value="17:12 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="CapaLogicaNegocio" Source="CapaLogicaNegocio\CapaLogicaNegocio.csproj" Description="El archivo de proyecto no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="CapaLogicaNegocio" Source="CapaLogicaNegocio\CapaLogicaNegocio.csproj" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="CapaEnlaceDatos" Source="CapaEnlaceDatos\CapaEnlaceDatos.csproj" Description="El archivo de proyecto no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="CapaEnlaceDatos" Source="CapaEnlaceDatos\CapaEnlaceDatos.csproj" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="Capa de Presentacion" Source="Capa de Presentacion\Capa de Presentacion.csproj" Description="El archivo de proyecto no requiere conversión.">
+</Event><Event ErrorLevel="3" Project="Capa de Presentacion" Source="Capa de Presentacion\Capa de Presentacion.csproj" Description="No requiere conversión">
+</Event><Event ErrorLevel="0" Project="" Source="Sistema de Ventas.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Sistema de Ventas.sln" Description="Converted">
+</Event></UpgradeLog>

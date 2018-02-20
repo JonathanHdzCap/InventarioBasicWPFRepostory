@@ -1,0 +1,18 @@
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa de Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmListadoCargos.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmListadoCategoria.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmListadoClientes.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmListadoEmpleados.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmListadoProductos.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmLogin.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmMenuPrincipal.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmRegistrarCargo.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmRegistrarCategoria.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmRegistrarEmpleados.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmRegistrarUsuarios.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmRegistroCliente.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmRegistroProductos.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion1.FrmRegistroVentas.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\obj\Debug\Capa de Presentacion.csproj.GenerateResource.Cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\Capa de Presentacion1\bin\Debug\Capa de Presentacion1.exe.config

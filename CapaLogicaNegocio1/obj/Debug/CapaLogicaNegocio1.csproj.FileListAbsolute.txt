@@ -1,0 +1,7 @@
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaLogicaNegocio1\bin\Debug\CapaLogicaNegocio1.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaLogicaNegocio1\bin\Debug\CapaLogicaNegocio1.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaLogicaNegocio1\bin\Debug\CapaEnlaceDatos1.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaLogicaNegocio1\bin\Debug\CapaEnlaceDatos1.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaLogicaNegocio1\obj\Debug\CapaLogicaNegocio1.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaLogicaNegocio1\obj\Debug\CapaLogicaNegocio1.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaLogicaNegocio1\obj\Debug\CapaLogicaNegocio1.pdb

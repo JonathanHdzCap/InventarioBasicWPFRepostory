@@ -1,0 +1,41 @@
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.csprojFakesResolveAssemblyReference.cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF\LoginWPF\obj\Debug\LoginWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF\LoginWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF\LoginWPF\obj\Debug\App.g.cs
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.lref
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\LoginWPF.Windows.exe.config
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\LoginWPF.Windows.exe.manifest
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\LoginWPF.Windows.application
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\LoginWPF.Windows.exe
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\LoginWPF.Windows.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\Capa de Presentacion1.exe
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\CapaLogicaNegocio1.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\CapaEnlaceDatos1.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\Capa de Presentacion1.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\CapaLogicaNegocio1.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\bin\Debug\CapaEnlaceDatos1.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\Simple Styles.baml
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\Controls\ProductosControl.g.cs
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWindow.g.cs
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\MenuWindow.g.cs
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\App.g.cs
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows_MarkupCompile.cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows_MarkupCompile.lref
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\App.baml
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\Controls\ProductosControl.baml
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWindow.baml
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\MenuWindow.baml
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\Properties\DesignTimeResources.baml
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows.g.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows.Properties.Resources.resources
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.csproj.GenerateResource.Cache
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows.exe.manifest
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows.application
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows.exe
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\LoginWPF.Windows.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\InventarioBasicWPFRepostory\LoginWPF\bin\Debug\LoginWPF.Windows.exe.config
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\InventarioBasicWPFRepostory\LoginWPF\obj\Debug\LoginWPF.Windows.exe
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\InventarioBasicWPFRepostory\LoginWPF\obj\Debug\LoginWPF.Windows.pdb

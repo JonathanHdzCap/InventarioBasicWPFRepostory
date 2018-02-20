@@ -1,0 +1,5 @@
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaEnlaceDatos1\bin\Debug\CapaEnlaceDatos1.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaEnlaceDatos1\bin\Debug\CapaEnlaceDatos1.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaEnlaceDatos1\obj\Debug\CapaEnlaceDatos1.dll
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaEnlaceDatos1\obj\Debug\CapaEnlaceDatos1.pdb
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\CapaEnlaceDatos1\obj\Debug\CapaEnlaceDatos1.csprojResolveAssemblyReference.cache
