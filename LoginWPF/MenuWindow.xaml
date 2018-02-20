@@ -141,7 +141,7 @@
                 <Label Margin="5,5,5.5,5" x:Name="OpcionProveedor" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Style="{DynamicResource LabelStyleOpcionMenu}" Content="Proveedores" Grid.ColumnSpan="2" d:IsLocked="True"/>
 
             </Grid>
-            <Grid x:Name="GridProductos" Width="auto" Height="auto" Grid.Column="0" Grid.Row="2" Cursor="Hand" MouseUp="Grid_MouseUp" Style="{DynamicResource GridStyleUser}" d:IsLocked="True">
+            <Grid x:Name="GridProductos" Width="auto" Height="auto" Grid.Column="0" Grid.Row="2" Cursor="Hand" MouseUp="Grid_MouseUp" Style="{DynamicResource GridStyleUser}">
                 <Grid.Background>
                     <SolidColorBrush Color="#FF2CAC95"/>
                 </Grid.Background>
