@@ -82,5 +82,20 @@ namespace CapaLogicaNegocio
                 throw ex;
             }
         }
+
+        public DataTable GetCargoById(int m_IdCargo)
+        {
+            DataTable dt = new DataTable();
+            List<clsParametro> lst = new List<clsParametro>();
+            try
+            {
+                lst.Add(new clsParametro("@IdCargo", m_IdCargo));
+                return dt = M.Listado("CargoGetById", lst);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

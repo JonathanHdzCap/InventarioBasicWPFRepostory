@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\InventarioBasicWPFRepostory\LoginWPF\App.xaml
-5243863374
+81102252593
 
-81491958859
+11156847599
 17875858710
-Controls\ProductosControl.xaml;LoginWindow.xaml;MenuWindow.xaml;Properties\DesignTimeResources.xaml;Simple Styles.xaml;
+Controls\EmpleadosControl.xaml;Controls\ProductosAdd.xaml;Controls\ProductosControl.xaml;Controls\ProveedoresControl.xaml;LoginWindow.xaml;MenuWindow.xaml;Properties\DesignTimeResources.xaml;Simple Styles.xaml;
 
-False
+True
 

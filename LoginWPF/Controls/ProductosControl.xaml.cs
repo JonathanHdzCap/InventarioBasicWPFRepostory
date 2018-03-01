@@ -34,7 +34,19 @@ namespace LoginWPF.Windows.Controls
         {
             List<clsProducto> listProductos = new List<clsProducto>();
             listProductos = P.Listar();
-            gridProductos.ItemsSource = listProductos;     
+            gridProductos.ItemsSource = listProductos;
+            gridProductos.Items[0].GetType();
+        }
+
+        private void BtnAdd_Click(object sender, RoutedEventArgs e)
+        {
+            ProductosAdd windowAddProductos = new ProductosAdd();
+            windowAddProductos.ShowDialog();
+        }
+
+        private void gridProductos_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
         }
     }
 }

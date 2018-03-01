@@ -98,7 +98,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Controls\EmpleadosControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ProductosAdd.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Controls\ProductosControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Controls\ProveedoresControl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -110,8 +122,17 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Controls\EmpleadosControl.xaml.cs">
+      <DependentUpon>EmpleadosControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ProductosAdd.xaml.cs">
+      <DependentUpon>ProductosAdd.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Controls\ProductosControl.xaml.cs">
       <DependentUpon>ProductosControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ProveedoresControl.xaml.cs">
+      <DependentUpon>ProveedoresControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="LoginWindow.xaml.cs">
       <DependentUpon>LoginWindow.xaml</DependentUpon>

@@ -24,6 +24,8 @@ namespace CapaLogicaNegocio
         private Decimal m_PrecioCompra;
         private Decimal m_PrecioVenta;
         private DateTime m_FechaVencimiento;
+        private clsCategoria objCategoria { get; set; }
+        private String Categoria {get;set;}
 
         public Int32 IdP
         {
@@ -91,6 +93,15 @@ namespace CapaLogicaNegocio
                     objTemp.PrecioVenta = dt.Rows[i][5] != null ? Decimal.Parse(dt.Rows[i][5].ToString()) : 0;
                     objTemp.Stock = dt.Rows[i][6] != null ? Int32.Parse(dt.Rows[i][6].ToString()) : 0;
                     objTemp.FechaVencimiento = DateTime.Parse(dt.Rows[i][7].ToString());
+
+                    objCategoria = new clsCategoria();
+                    DataTable dtCategoria = objCategoria.GetCategoriaById(objTemp.IdCategoria);
+                    if (dtCategoria.Rows.Count == 1)
+                    {
+                        objCategoria.IdCategoria = Int32.Parse(dtCategoria.Rows[0][0].ToString());
+                        objCategoria.Descripcion = dtCategoria.Rows[0][1] != null ? dtCategoria.Rows[0][1].ToString() : "";
+                        objTemp.objCategoria = objCategoria;
+                    }                    
                     list.Add(objTemp);
                 }
             }

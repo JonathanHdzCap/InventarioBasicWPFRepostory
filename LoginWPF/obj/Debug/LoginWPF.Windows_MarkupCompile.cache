@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\obj\Debug\
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\InventarioBasicWPFRepostory\LoginWPF\obj\Debug\
 LoginWPF.Windows
 none
 false
 DEBUG;TRACE
-C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\LoginWPF - Copy\LoginWPF\App.xaml
-5243863374
+C:\Users\Jonathan Inblay\Documents\Inblay Documents\Books\WPF Proyects\InventarioBasicWPFRepostory\LoginWPF\App.xaml
+81102252593
 
-71518132559
-17-1166461809
-Controls\ProductosControl.xaml;LoginWindow.xaml;MenuWindow.xaml;Properties\DesignTimeResources.xaml;Simple Styles.xaml;
+10183021299
+17875858710
+Controls\EmpleadosControl.xaml;Controls\ProductosAdd.xaml;Controls\ProductosControl.xaml;Controls\ProveedoresControl.xaml;LoginWindow.xaml;MenuWindow.xaml;Properties\DesignTimeResources.xaml;Simple Styles.xaml;
 
 False
 

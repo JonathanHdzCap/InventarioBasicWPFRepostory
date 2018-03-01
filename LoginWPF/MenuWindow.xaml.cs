@@ -30,7 +30,6 @@ namespace LoginWPF.Windows
         {
             //FrmListadoProductos P = new FrmListadoProductos();
             //P.Show();
-            //Control.Children.Add();
             Control.Children.Clear();
             ProductosControl gridProductos = new ProductosControl();
             Control.Children.Add(gridProductos);
@@ -46,6 +45,13 @@ namespace LoginWPF.Windows
         {
             this.Close();
             App.Current.Shutdown();
+        }
+
+        private void GridEmpleado_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            Control.Children.Clear();
+            EmpleadosControl gridEmpleados = new EmpleadosControl();
+            Control.Children.Add(gridEmpleados);
         }
     }
 }

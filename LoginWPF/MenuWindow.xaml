@@ -83,10 +83,10 @@
             </LinearGradientBrush>
         </Grid.Background>
         <Grid.RowDefinitions>
-            <RowDefinition Height="36*"/>
+            <RowDefinition Height="37*"/>
             <RowDefinition Height="3*"/>
-            <RowDefinition Height="479*"/>
-            <RowDefinition Height="17*"/>
+            <RowDefinition Height="446*"/>
+            <RowDefinition Height="49*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="85*"/>
@@ -95,7 +95,7 @@
             <ColumnDefinition Width="6*"/>
             <ColumnDefinition Width="2*"/>
         </Grid.ColumnDefinitions>
-        <Grid Height="auto" Grid.Column="0" Grid.Row="2" Width="auto">
+        <Grid Height="auto" Grid.Column="0" Width="auto" Grid.RowSpan="4" Grid.Row="1">
             <Grid.RowDefinitions>
                 <RowDefinition Height="1*" Cursor="Hand"/>
                 <RowDefinition Height="1*" Cursor="Hand"/>
@@ -111,7 +111,7 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            <Grid Width="auto" Height="auto" x:Name="GridEmpleado" Grid.Column="0" Grid.Row="0" Cursor="Hand" Style="{DynamicResource GridStyleUser}" >
+            <Grid Width="auto" Height="auto" x:Name="GridEmpleado" Grid.Column="0" Grid.Row="0" Cursor="Hand" Style="{DynamicResource GridStyleUser}" MouseUp="GridEmpleado_MouseUp" >
                 <Grid.Background>
                     <SolidColorBrush Color="#FF2CAC95"/>
                 </Grid.Background>
@@ -122,11 +122,11 @@
                 <Grid.RowDefinitions>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/Empleados.png" d:IsLocked="True"/>
-                <Label Margin="5,5,5.5,5" x:Name="OpcionEmpleado" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Style="{DynamicResource LabelStyleUsuarios}" Content="Empleados" d:IsLocked="True"/>
+                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/Empleados.png"/>
+                <Label Margin="5,5,5.5,5" x:Name="OpcionEmpleado" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Style="{DynamicResource LabelStyleUsuarios}" Content="Empleados"/>
 
             </Grid>
-            <Grid Width="auto" Height="auto" x:Name="GridProveedor" Grid.Column="0" Grid.Row="1" Cursor="Hand" Style="{DynamicResource GridStyleUser}" MouseUp="Grid_MouseUp" d:IsLocked="True">
+            <Grid Width="auto" Height="auto" x:Name="GridProveedor" Grid.Column="0" Grid.Row="1" Cursor="Hand" Style="{DynamicResource GridStyleUser}" MouseUp="Grid_MouseUp">
                 <Grid.Background>
                     <SolidColorBrush Color="#FF2CAC95"/>
                 </Grid.Background>
@@ -152,11 +152,11 @@
                 <Grid.RowDefinitions>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/Productos.png" d:IsLocked="True"/>
-                <Label Margin="5,5,5.5,5" x:Name="OpcionProductos" Grid.Row="5" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Style="{DynamicResource LabelStyleOpcionMenu}" d:IsLocked="True">Productos</Label>
+                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/Productos.png"/>
+                <Label Margin="5,5,5.5,5" x:Name="OpcionProductos" Grid.Row="5" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Style="{DynamicResource LabelStyleOpcionMenu}">Productos</Label>
 
             </Grid>
-            <Grid x:Name="GridVentas" Width="auto" Height="auto" Grid.Column="0" Grid.Row="3" Cursor="Hand" Style="{DynamicResource GridStyleUser}" MouseUp="GridVentas_MouseUp" d:IsLocked="True">
+            <Grid x:Name="GridVentas" Width="auto" Height="auto" Grid.Column="0" Grid.Row="3" Cursor="Hand" Style="{DynamicResource GridStyleUser}" MouseUp="GridVentas_MouseUp">
                 <Grid.Background>
                     <SolidColorBrush Color="#FF2CAC95"/>
                 </Grid.Background>
@@ -167,11 +167,11 @@
                 <Grid.RowDefinitions>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/Ventas.png" d:IsLocked="True"/>
-                <Label x:Name="OpcionVentas" Margin="5,5,5.5,5" Grid.Row="5" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Style="{DynamicResource LabelStyleOpcionMenu}" Content="Ventas" d:IsLocked="True"/>
+                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/Ventas.png"/>
+                <Label x:Name="OpcionVentas" Margin="5,5,5.5,5" Grid.Row="5" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Style="{DynamicResource LabelStyleOpcionMenu}" Content="Ventas"/>
 
             </Grid>
-            <Grid Width="auto" Height="auto" x:Name="GridReportes" Grid.Column="0" Grid.Row="4" Cursor="Hand" Style="{DynamicResource GridStyleUser}" d:IsLocked="True">
+            <Grid Width="auto" Height="auto" x:Name="GridReportes" Grid.Column="0" Grid.Row="4" Cursor="Hand" Style="{DynamicResource GridStyleUser}">
                 <Grid.Background>
                     <SolidColorBrush Color="#FF2CAC95"/>
                 </Grid.Background>
@@ -183,9 +183,9 @@
                     <RowDefinition/>
                 </Grid.RowDefinitions>
                 <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/Reportes.png"/>
-                <Label x:Name="OpcionReportes" Margin="5,5,5.5,5" Grid.Row="5" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Content="Reportes" d:IsLocked="True"/>
+                <Label x:Name="OpcionReportes" Margin="5,5,5.5,5" Grid.Row="5" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Content="Reportes"/>
             </Grid>
-            <Grid Width="auto" Height="auto" x:Name="GridSalir" Grid.Column="0" Grid.Row="5" Cursor="Hand" Style="{DynamicResource GridStyleUser}" MouseUp="GridSalir_MouseUp" d:IsLocked="True">
+            <Grid Width="auto" Height="auto" x:Name="GridSalir" Grid.Column="0" Grid.Row="5" Cursor="Hand" Style="{DynamicResource GridStyleUser}" MouseUp="GridSalir_MouseUp">
                 <Grid.Background>
                     <SolidColorBrush Color="#FF2CAC95"/>
                 </Grid.Background>
@@ -196,15 +196,12 @@
                 <Grid.RowDefinitions>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/salir.png" d:IsLocked="True"/>
-                <Label x:Name="OpcionSalir" Margin="5,5,5.5,5" Grid.Row="0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Content="Salir" d:IsLocked="True"/>
+                <Image Grid.Column="0" Grid.Row="0" Margin="10" Source="Images/salir.png"/>
+                <Label x:Name="OpcionSalir" Margin="5,5,5.5,5" Grid.Row="0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Grid.Column="1" FontSize="18" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" Content="Salir"/>
             </Grid>
         </Grid>
-        <Grid x:Name="Control" Background="White" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0" Grid.Row="2" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" />
-        <Path Grid.Column="2" Data="M1,40 L1,517 M1,1 L1,35 M577.51429,40 L577.51429,517 M577.51429,1 L577.51429,35 M5.0000026,521 L573.51428,521 M5.0000026,37.5 L573.51428,37.5" Fill="White" Margin="-4,0,-4,-4" Stretch="Fill" StrokeThickness="2" StrokeStartLineCap="Round" StrokeEndLineCap="Round" Grid.RowSpan="3" d:IsLocked="True">
-            <Path.Stroke>
-                <SolidColorBrush Color="#FF2CAC95" Opacity="0.8"/>
-            </Path.Stroke>
-        </Path>
+        <Grid x:Name="Control" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0" Grid.Row="2" >
+            <Border BorderBrush="White" BorderThickness="1" Opacity="0.5" CornerRadius="5"/>
+        </Grid>
     </Grid>
 </Window>

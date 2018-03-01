@@ -87,5 +87,20 @@ namespace CapaLogicaNegocio
             }
             return Mensaje;
         }
+
+        public DataTable GetCategoriaById(int m_IdCategoria)
+        {
+            DataTable dt = new DataTable();
+            List<clsParametro> lst = new List<clsParametro>();
+            try
+            {
+                lst.Add(new clsParametro("@IdCategoria", m_IdCategoria));
+                return dt = M.Listado("CategoriaGetById", lst);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

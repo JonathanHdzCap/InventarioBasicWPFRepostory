@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>E8vFR89+J+M9reY0z+cEatnkR+w=</dsig:DigestValue>
+        <dsig:DigestValue>oljTaNjEQBdNNThmCXy1K3GlFMI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,19 +62,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yf8HmFvllHV/O0jBTdc3LKTFL+g=</dsig:DigestValue>
+        <dsig:DigestValue>dP4hDIzs3flOX1CwzAjP2W2Zmfs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaLogicaNegocio1.dll" size="19456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CapaLogicaNegocio1.dll" size="19968">
       <assemblyIdentity name="CapaLogicaNegocio1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>nPo5XlU5ciYK6orj5lazsYzrxAM=</dsig:DigestValue>
+        <dsig:DigestValue>eLz883EObZEMnbTHV79517rkNkg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -103,14 +103,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LoginWPF.Windows.exe" size="344512">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LoginWPF.Windows.exe" size="385472">
       <assemblyIdentity name="LoginWPF.Windows" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>sILtgY9u0aggybkYfj3aItvlQ6I=</dsig:DigestValue>
+        <dsig:DigestValue>8VB59tZOWHcL8kPTOgivttJpxlk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
